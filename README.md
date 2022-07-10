@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surendra7506
+- 👋 Hi, I’m Surendra Yadav
 - 👀 I’m interested to build a User-friendly Website
 - 🌱 I’m currently learning Full stack web developer
 - 💞️ I’m looking to collaborate on ...
